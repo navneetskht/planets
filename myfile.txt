@@ -1,1 +1,2 @@
- tghis is a new file
+ this is a new file
+more stuff is added.
